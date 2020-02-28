@@ -45,19 +45,19 @@
                         active: true
                     },
                     {
-                        icon: 'Plus',
+                        icon: 'Grid',
                         active: false
                     },
                     {
-                        icon: 'Plus',
+                        icon: 'Menu',
                         active: false
                     },
                     {
-                        icon: 'Plus',
+                        icon: 'Graph',
                         active: false
                     },
                     {
-                        icon: 'Plus',
+                        icon: 'Cog',
                         active: false
                     }
                 ]

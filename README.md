@@ -1,24 +1,37 @@
-# dashboard-one
+# Dashboard Design #1
 
-## Project setup
+A sample dashboard UI built based on a design from this [Dribble shot](https://dribbble.com/shots/6767474-Sprint-Report-Dashboard?utm_source=Clipboard_Shot&utm_campaign=staromlynski&utm_content=Sprint%20Report%20Dashboard&utm_medium=Social_ShareZ)
+
+##Demo
+[Dashboard](https://wambugudavis-dashboard-one.netlify.com/)
+
+## Installing
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+#####Development
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+#####Production
 ```
 yarn build
 ```
-
-### Lints and fixes files
+#####Lints and fixes files
 ```
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Built With
+
+* [VueJS](https://vuejs.org/) - The web framework used
+* [Tailwind](https://tailwindcss.com/) - CSS framework
+
+## Authors
+
+* **[Davis Wambugu](https://github.com/wambugudavis)**
+
+## Acknowledgments
+* [Design Inspiration](https://dribbble.com/shots/6767474-Sprint-Report-Dashboard?utm_source=Clipboard_Shot&utm_campaign=staromlynski&utm_content=Sprint%20Report%20Dashboard&utm_medium=Social_ShareZ)

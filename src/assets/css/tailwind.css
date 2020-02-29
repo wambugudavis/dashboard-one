@@ -1,11 +1,11 @@
 @tailwind base;
 .round-style {
-    @apply px-6 py-2 rounded-full tracking-widest uppercase;
+    @apply px-6 py-2 rounded-full tracking-widest uppercase cursor-pointer;
     font-size: 10px;
 }
 
 .epic-badge {
-    @apply flex items-center justify-center mr-4 w-8 h-8 rounded-full font-bold ;
+    @apply flex items-center justify-center mr-4 w-8 h-8 rounded-full font-bold;
 }
 
 @tailwind components;

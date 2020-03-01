@@ -8,6 +8,10 @@
     @apply flex items-center justify-center mr-4 w-8 h-8 rounded-full font-bold;
 }
 
+body {
+    @apply overflow-x-hidden;
+}
+
 @tailwind components;
 @tailwind utilities;
 
